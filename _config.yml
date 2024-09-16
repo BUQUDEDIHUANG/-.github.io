@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "刘俊浩"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "我喜欢学习知识，知识带给我智慧与力量，做一个阳光开朗大男孩"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
