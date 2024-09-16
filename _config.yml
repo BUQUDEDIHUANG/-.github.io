@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "刘俊浩"
+  name             : "jun hao liu"
   pronouns         : # example: "she/her"  
-  bio              : "我喜欢学习知识，知识带给我智慧与力量，做一个阳光开朗大男孩"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I Like study"
+  location         : "China Chang Sha"
+  employer         : "Chang Sha University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2041748368@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
