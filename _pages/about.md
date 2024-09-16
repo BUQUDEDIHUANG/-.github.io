@@ -11,5 +11,5 @@ I am a junior student at Changsha University. My research interests lie in compu
 
 I am honored to be invited to use this software called github to create a personal homepage, which can give me more opportunities to publish academic papers and communicate with the world's top scientists.
 
-This is my qq email[2041748368@qq.com], through which you can carry out academic exchanges with me
+This is my qq email[2041748368@qq.com], through which you can carry out academic exchanges with me.
 
